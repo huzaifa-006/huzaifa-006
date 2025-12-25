@@ -12,8 +12,8 @@ Im currently working as Trainee DevOps Engineer
 ![](https://nirzak-streak-stats.vercel.app/?user=huzaifa-006&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa-006&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=huzaifa-006&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=huzaifa-006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=huzaifa-006&icon=0&color=3)](https://visitcount.itsvg.in)
